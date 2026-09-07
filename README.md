@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Lina! 👋
+
+
+### About Me
+
+- 🌱 I'm a high school junior currently building my skills through Code2College's Elite 101.
+- 💻 I'm excited to build projects that combine technology and business to solve real-world problems!
+<br>
+
+
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/02820da8-0c5b-4074-b4bf-493822e09362" /> [LinkedIn](https://www.linkedin.com/in/lina-mered)
 
 <!--
 **lina-m4/lina-m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
